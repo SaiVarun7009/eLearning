@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+}
+
+.pathwayContainer-Pathways{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.singlePathway{
+    height: 450px;
+    overflow: hidden;   
+    row-gap: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    position:relative;
+    background-color:white;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.imageDiv{
+    height: 160px;
+    width: 100%;
+    border-top-radius: 5%;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.imageDiv img{
+    object-fit: contain;
+    width: 100%;
+}
+
+.pathwayInfo{
+    text-align:left;
+    margin: 10px;
+}
+
+.butn{
+    background: linear-gradient(to right, #103ce7, #64e9ff); 
+    width: 90%;
+    margin-left: 5%;
+    height: 40px;
+    border-radius: 10px;
+}

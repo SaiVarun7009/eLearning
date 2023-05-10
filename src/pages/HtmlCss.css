@@ -1,0 +1,31 @@
+.CourseVideos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    /* justify-content: start; */
+}
+
+.CourseVideoPlayer{
+    width: 70%;
+}
+.CourseVideoTopics{
+    width: 30%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+
+
+@media screen and (max-width:720px){
+    .CourseVideos{
+        flex-direction: column;
+    }
+    .CourseVideoPlayer{
+        width: 100%;
+    }
+    .CourseVideoTopics{
+        width: 100%;
+        margin-top: 20px;
+    }
+}

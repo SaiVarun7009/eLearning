@@ -1,0 +1,77 @@
+.navbarSection{
+    background-color: white;
+    height: 10vh;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.navStart img{
+    width: 150px;
+    height: 50px;
+}
+
+.customCourse{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.categories{
+    
+}
+
+.searchBox {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 40%;
+   gap: 5px;
+}
+
+.searchBox input {
+    flex: 1 1 auto;
+    height: 44px;
+    padding-left: 16px;
+    padding-right: 6px;
+    font-size: 16px;
+    border: 1px solid #303030;
+    border-radius: 22px;
+    background: white;
+    color: inherit;
+    font-family: inherit;
+    font-weight: 400;
+    outline: none;
+  }
+
+  .searchBox button {
+    padding: 5px;
+    border-radius: 50%;
+    border: 1px solid white
+  }
+
+  .navEnd{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 5px;
+  }
+
+  .Icons{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #f0f2f5;
+    border: 1px solid white;
+   
+  }
+
+  .hidden {
+    display: none;
+  }

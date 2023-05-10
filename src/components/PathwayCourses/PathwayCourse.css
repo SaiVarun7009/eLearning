@@ -1,0 +1,84 @@
+.courseSection{
+   margin: auto;
+   max-width: 100%;
+}
+
+.courseSection h3{
+    width: 85%;
+    margin: auto;
+}
+
+.courseSection .main{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow-x: scroll;
+}
+
+
+.secTitle h3{
+    padding: 1.5rem;
+    font-size: x-large;
+}
+
+.CourseContainer{
+    display: flex;
+    max-width: 100%;
+}
+
+.singleCourse{
+    /* width: 280px; */
+    min-width: 300px;
+    border-width: 5px;
+    border-color: black;
+    display: grid;
+    /*flex: 0 0 auto;*/
+    row-gap: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.imageDiv{
+    
+    width: 100%;
+    overflow: hidden;
+}
+
+.courseInfo{
+    padding: 1rem;
+    position: relative;
+}
+
+.courseInfo h6{
+    font-size: 12px;
+    font-weight: 1;
+}
+
+.price h5{
+    font-size: 28px;
+}
+
+.desc p{
+    font-size: 14px;
+}
+
+.desc{
+    height: 70px;
+}
+
+.btn{
+    padding: 1rem;
+    background: linear-gradient(to right bottom, #2c3e50, #3498db);
+    background-color: LinearGradient(linear, left top, left bottom);
+    width: 90%;
+    margin-top: 1rem;
+    margin-left: 5%;
+}
+
+
+.CourseContainer{
+   
+    
+    gap: 1.5rem;
+}

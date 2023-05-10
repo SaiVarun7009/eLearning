@@ -1,0 +1,100 @@
+
+
+.Banner{
+    height: 50vh;
+    background: linear-gradient(to right bottom, #2c3e50, #3498db); 
+    /* background-color: LinearGradient(linear, left top, right bottom); */
+    /* background-image: linear-gradient(to right, #2c3e50, #3498db), url("./R.jpeg"); */
+    /* background-image: url('./bannerimg.jpeg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content:  center;
+    align-items: center;
+    margin: auto;
+    position: relative; 
+    display: flex;
+    color: aliceblue;
+    margin-bottom: 50px;
+}
+
+.PathName{
+    width: 45%;
+}
+
+.BannerText{
+    text-align: center;
+}
+
+.Title{
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 2em;
+    color: aliceblue;
+}
+
+.btn{
+    padding: .6rem 1.5rem;
+}
+
+
+.ScrollGrid{
+    border: 2em;
+    border-radius: 12px;
+    background-color: white;
+    border: solid ;
+    height: 10vh;
+    position: absolute;
+    top:44vh;
+    left: 25%;
+    margin: auto;
+    width: 50%;
+    z-index: 1;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;    
+    flex-direction: row;
+}
+
+.ScrollGrid a{
+    color: white;
+}
+
+.Scrollbtn{
+    /* background-color:rgba(24, 69, 147,0.75); */
+    background: linear-gradient(to right bottom, #2c3e50, #3498db);
+    background-color: LinearGradient(linear, left top, left bottom);
+    color: white;
+    padding: .6rem 1.5rem;
+    font-weight: 600;
+    border-radius: 10em;
+}
+
+
+@media screen and (max-width: 1152px){
+    .PathName{
+        width: 90%;
+    }
+    
+}
+
+@media screen and (max-width: 500px) {
+    .Title{
+        font-size: 2.5rem;
+        font-weight: 500;
+    }
+    .subTitle{
+        font-size: 1rem;
+        font-weight: 100;
+        color:seashell;
+    }
+}
+    
+@media screen and (max-width:800px) {
+    .ScrollGrid{
+        width: 90%;
+        left: 5%;
+    }
+    
+}

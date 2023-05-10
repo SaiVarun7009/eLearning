@@ -1,0 +1,309 @@
+
+{
+  "title": "Master HTML ",
+  "miniDescription": "Learn the basicsto advanced concepts of HTML.",
+  "description": "HTML (HyperText Markup Language) is the most fundamental front-end development language that every front-end developer should know. In this course, BitDegree is ready to give you all the necessary information on how to structure and build your own website using HTML.\n\n You will learn the fundamental elements of making your website stand out amongst the others. In addition, this course will teach how to use audiovisual elements for adding exciting assets to your page.\n\nThe course itself can be divided into three different parts: the introduction, the fundamentals, and the in-depth codes.\n\n The introduction is the first part of the course that consists of a crucial understanding of how web browsers operate in general, browser security, HTTP requests, and an introduction to HMTL.\n\nThe second part of our course will present to you everything you need to know about HTML programming. For example, the course will provide information on HTML texts and links, some semantic and styling details, and the course takes a look at important meta tags of HTML.\n\nIn the last part, you will encounter in-depth concepts such as HTML inputs, form validation, as well as audiovisual prospects.\n\nOur HTML course takes 40 hours to complete and receive free certification. This is a self-paced course that allows you to plan your own time as you wish.This course is part of a front-end developer course that teaches the necessary fundamentals to become a junior front-end developer. If you wish to learn other topics (CSS, JavaScript, Web design) as well, please visit this page. You will find more incredible learning materials there.\nIf this course sounds great to you, then join us and thousands of other people all around the world. We promise you that this course will be very enjoyable to learn!",
+  "introvideoUrl": "https://www.youtube.com/embed/Ki_0iES2cGI",
+  "lecturesCount": 136,
+  "lecturesTotalTime": "4hr 30min",
+  "progress": 0,
+  "learningObjectives": ["Insert a graphic within a web page", "Create a link within a web page", "Create a table within a web page", "Validate a web page"],
+  "courseChapters": [
+    {
+      "title": "Introduction to HTML",
+      "lessons": [
+        {
+          "title": "What is HTML?",
+          "type": "text",
+          "url": "https://www.tutorialspoint.com/html/html_tutorial.pdf"
+        },
+        {
+          "title": "Setting up the development environment",
+          "type": "video",
+          "url": "https://youtu.be/Ki_0iES2cGI"
+        }
+      ]
+    },
+    {
+      "title": "Variables and Data Types",
+      "lessons": [
+        {
+          "title": "Variables",
+          "type": "text"
+        },
+        {
+          "title": "Data Types",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "instructor": "John Doe",
+  "pathwayName": "Web Developer",
+  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.tutorialinhindi.com%2Fwp-content%2Fuploads%2F2021%2F03%2FHTML-Tutorial-in-Hindi-1024x576.png&tbnid=7uRlVqMiilCjwM&vet=12ahUKEwjli6jh46n-AhXIJLcAHQcyAwoQMygJegUIARDQAQ..i&imgrefurl=https%3A%2F%2Fwww.tutorialinhindi.com%2Fhtml-tutorial-hindi%2F&docid=LktJSS6mgU3J6M&w=1024&h=576&q=html%20course%20pdf&ved=2ahUKEwjli6jh46n-AhXIJLcAHQcyAwoQMygJegUIARDQAQ",
+  "tags": ["HTML", "Web Developer", "Beginner"],
+  "projectLink": ["https://example.com/project1", "https://example.com/project2"],
+  "githubLink": ["https://github.com/user/repo1", "https://github.com/user/repo2"]
+}
+
+
+
+
+
+{
+    "title": "JavaScript Fundamentals",
+    "miniDescription": "Learn the fundamentals of JavaScript programming language",
+    "description": "In this course, you will learn the basics of JavaScript programming, including variables, data types, functions, loops, and objects. By the end of the course, you will be able to create simple JavaScript programs.",
+    "introvideoUrl": "https://www.youtube.com/embed/qVKFTK5Qt9c",
+    "lecturesCount": 15,
+    "lecturesTotalTime": "4 hours",
+    "completedLessons": 0,
+    "progress": "0%",
+    "learningObjectives": ["Understand the basics of JavaScript syntax", "Learn how to work with variables and data types", "Explore functions and loops in JavaScript", "Understand object-oriented programming concepts in JavaScript"],
+    "courseChapters": [
+      {
+        "title": "Introduction to JavaScript",
+        "lessons": [
+          {
+            "title": "JavaScript Syntax",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+            "lessonsTime": 30
+          },
+          {
+            "title": "Variables and Data Types",
+            "type": "Text",
+            "lessonsTime": 20
+          }
+        ]
+      },
+      {
+        "title": "Functions and Loops",
+        "lessons": [
+          {
+            "title": "Functions in JavaScript",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=V_gOZDWQjJ4",
+            "lessonsTime": 40
+          },
+          {
+            "title": "Loops in JavaScript",
+            "type": "Text",
+            "lessonsTime": 30
+          }
+        ]
+      },
+      {
+        "title": "Introduction to JavaScript",
+        "lessons": [
+          {
+            "title": "JavaScript Syntax",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+            "lessonsTime": 30
+          },
+          {
+            "title": "Variables and Data Types",
+            "type": "Text",
+            "lessonsTime": 20
+          }
+        ]
+      },
+      {
+        "title": "Functions and Loops",
+        "lessons": [
+          {
+            "title": "Functions in JavaScript",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=V_gOZDWQjJ4",
+            "lessonsTime": 40
+          },
+          {
+            "title": "Loops in JavaScript",
+            "type": "Text",
+            "lessonsTime": 30
+          }
+        ]
+      },
+      {
+        "title": "Introduction to JavaScript",
+        "lessons": [
+          {
+            "title": "JavaScript Syntax",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+            "lessonsTime": 30
+          },
+          {
+            "title": "Variables and Data Types",
+            "type": "Text",
+            "lessonsTime": 20
+          }
+        ]
+      },
+      {
+        "title": "Functions and Loops",
+        "lessons": [
+          {
+            "title": "Functions in JavaScript",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=V_gOZDWQjJ4",
+            "lessonsTime": 40
+          },
+          {
+            "title": "Loops in JavaScript",
+            "type": "Text",
+            "lessonsTime": 30
+          }
+        ]
+      }
+    ],
+    "instructor": "John Smith",
+    "pathwayName": "Web Developer",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.tutorialinhindi.com%2Fwp-content%2Fuploads%2F2021%2F03%2FJavaScript-tutorial-in-hindi.png&tbnid=Adpt7jp_qyz8ZM&vet=12ahUKEwj_xv_w5Kn-AhVP93MBHfz6B70QMygPegUIARDGAQ..i&imgrefurl=https%3A%2F%2Fwww.tutorialinhindi.com%2Fjavascript-tutorial-hindi%2F&docid=2qaTBQmGmszb6M&w=927&h=600&q=javascript%20course%20pdf&ved=2ahUKEwj_xv_w5Kn-AhVP93MBHfz6B70QMygPegUIARDGAQ",
+    "tags": ["JavaScript", "Programming", "Web Development"],
+    "projectLink": ["https://github.com/user/project1", "https://github.com/user/project2"],
+    "githubLink": ["https://github.com/user/course1", "https://github.com/user/course2"]
+  }
+  
+
+
+
+
+  {
+    "title": "AWS Fundamentals",
+    "miniDescription": "Learn the fundamentals of AWS cloud computing",
+    "description": "In this course, you will learn the basics of AWS cloud computing, including EC2, S3, and RDS. By the end of the course, you will be able to create and manage your own cloud infrastructure on AWS.",
+    "introvideoUrl": "https://www.youtube.com/watch?v=5OeOL-rzSC0",
+    "lecturesCount": 12,
+    "lecturesTotalTime": "3 hours",
+    "completedLessons": 0,
+    "progress": "0%",
+    "learningObjectives": ["Understand the basics of AWS cloud computing", "Learn how to create and manage EC2 instances", "Explore the features of S3 storage service", "Understand how to use RDS for database management"],
+    "courseChapters": [
+      {
+        "title": "Introduction to AWS",
+        "lessons": [
+          {
+            "title": "What is AWS?",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=5OeOL-rzSC0",
+            "lessonsTime": 20
+          },
+          {
+            "title": "Creating an AWS Account",
+            "type": "Text",
+            "lessonsTime": 15
+          }
+        ]
+      },
+      {
+        "title": "Working with EC2",
+        "lessons": [
+          {
+            "title": "Creating and Configuring EC2 Instances",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=bP8VDpAbxdc",
+            "lessonsTime": 30
+          },
+          {
+            "title": "Managing EC2 Instances",
+            "type": "Text",
+            "lessonsTime": 20
+          }
+        ]
+      }
+    ],
+    "instructor": "Jane Doe",
+    "pathwayName": "Cloud Computing",
+    "image": "https://example.com/images/aws.png",
+    "tags": ["AWS", "Cloud Computing", "Infrastructure"],
+    "projectLink": ["https://github.com/user/project1", "https://github.com/user/project2"],
+    "githubLink": ["https://github.com/user/course1", "https://github.com/user/course2"]
+  }
+
+  
+
+  {
+    "title": "Java for Beginners",
+    "miniDescription": "Learn the fundamentals of Java programming language",
+    "description": "In this course, you will learn the fundamentals of Java programming language, including variables, data types, control structures, and object-oriented programming concepts. By the end of the course, you will be able to write simple Java programs.",
+    "introvideoUrl": "https://www.youtube.com/watch?v=grEKMHGYyns",
+    "lecturesCount": 15,
+    "lecturesTotalTime": "3 hours",
+    "completedLessons": 0,
+    "progress": "0%",
+    "learningObjectives": ["Understand the basics of Java syntax", "Learn how to work with variables and data types", "Explore control structures in Java", "Understand object-oriented programming concepts in Java"],
+    "courseChapters": [
+      {
+        "title": "Introduction to Java",
+        "lessons": [
+          {
+            "title": "Java Syntax",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=grEKMHGYyns",
+            "lessonsTime": 30
+          },
+          {
+            "title": "Variables and Data Types",
+            "type": "Text",
+            "lessonsTime": 20
+          },
+          {
+            "title": "Operators and Expressions",
+            "type": "Text",
+            "lessonsTime": 25
+          }
+        ]
+      },
+      {
+        "title": "Control Structures in Java",
+        "lessons": [
+          {
+            "title": "If-Else Statements",
+            "type": "Text",
+            "lessonsTime": 20
+          },
+          {
+            "title": "Loops",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=5Kc5V7whe5M",
+            "lessonsTime": 30
+          },
+          {
+            "title": "Switch Statements",
+            "type": "Text",
+            "lessonsTime": 20
+          }
+        ]
+      },
+      {
+        "title": "Object-Oriented Programming in Java",
+        "lessons": [
+          {
+            "title": "Classes and Objects",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=2s4Yt4yHEwM",
+            "lessonsTime": 40
+          },
+          {
+            "title": "Inheritance and Polymorphism",
+            "type": "Text",
+            "lessonsTime": 25
+          },
+          {
+            "title": "Interfaces and Abstract Classes",
+            "type": "Text",
+            "lessonsTime": 30
+          }
+        ]
+      }
+    ],
+    "instructor": "John Doe",
+    "pathwayName": "Programming Fundamentals",
+    "image": "https://example.com/images/java.png",
+    "tags": ["Java", "Programming", "Object-Oriented Programming"],
+    "projectLink": ["https://github.com/user/project1", "https://github.com/user/project2"],
+    "githubLink": ["https://github.com/user/course1", "https://github.com/user/course2"]
+  }
+  

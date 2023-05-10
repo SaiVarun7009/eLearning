@@ -1,0 +1,129 @@
+body {
+  background-color: #414141;
+}
+/* .App {
+  text-align: center;
+} */
+
+.Register{
+  background-image:linear-gradient(to right,black,rgba(42, 30, 30, 0.6)), url('./stylepages/register.jpg');
+  height: 525px;
+  align-items: left;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20px;
+  margin-right: 30px;
+}
+.Profile{
+  background-image:linear-gradient(to right,black,rgba(120, 109, 109, 0.6)), url('./stylepages/profile.jpg');
+  height: 525px;
+  background-size: cover;
+  align-items: left;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20px;
+  margin-right: 30px; 
+}
+.Profile button{
+  width: 150px;
+}
+.Login{
+  background-image:linear-gradient(to right,black,rgba(46, 27, 27, 0.6)), url('./stylepages/121806.jpg');
+  height: 525px;
+  background-size: cover;
+  align-items: left;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20px;
+  margin-right: 30px; 
+}
+.Loginhead{
+  color: white;
+  margin-left: 285px;
+  margin-top: 100px;
+}
+.Logindata{
+  margin-left: 20%;
+  padding: 10px;
+  padding-left: 20px;
+}
+.loginusname, .loginpassword, .loginsubmit{
+  padding: 20px;
+}
+.loginsubmit #signin{
+  width: 150px;
+}
+.Logindata input{
+  width: 260px;
+}
+.loginsubmit{
+  margin-left: 70px;
+}
+.Logindata input, button{
+  padding: 10px;
+  color: white;
+  font-size: medium;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 5px;
+  border: none;
+  background-color: #414141;
+}
+.Regishead{
+  margin: 40px 120px;
+  line-height: 8px;
+}
+
+.Regisdata #signup:hover{
+  cursor: pointer;
+}
+
+.Regisdata {
+  margin-left: 100px;
+}
+.regispers, .regisqua, .regisconta, .regispass{
+  padding: 15px;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+.regissub{
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
+.Regisdata input{
+  padding: 10px;
+  color: white;
+  font-size: medium;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 5px;
+  border: none;
+  background-color: #414141;
+}
+.regissub{
+  padding: 10px;
+}
+.regissub input{
+  width: 150px;
+  border-radius: 20px;
+}
+
+.Nava #home ,#register, #login, #news, #profile{
+  color: white;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px;
+}
+
+.Nava{
+  background-color: rgb(33, 20, 20);
+  margin-top: 5px;
+  display: flex;
+  justify-content: end;
+}

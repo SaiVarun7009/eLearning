@@ -1,0 +1,70 @@
+body{
+    background-color: aliceblue;
+}
+
+
+.courseContainer{
+    width: 100%;
+    margin: auto;
+}
+
+
+.singleCourse{
+    height: 450px;
+    overflow: hidden;   
+     /* min-width: 300px; */
+    row-gap: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    position:relative;
+    background-color:white;
+
+}
+
+
+.imageDiv{
+    height: 160px;
+    width: 100%;
+    border-top-radius: 5%;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.imageDiv img{
+    object-fit: contain;
+    width: 100%;
+}
+
+.courseInfo{
+    text-align:left;
+    margin: 10px;
+    /* margin-right: 10px; */
+    
+}
+
+.duration{
+    width: 50px;
+    background: linear-gradient(to right, #103ce7, #64e9ff); 
+    /* background-color: #64e9ff; */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.price{
+
+}
+
+.butn{
+    background: linear-gradient(to right, #103ce7, #64e9ff); 
+    width: 90%;
+    margin-left: 5%;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.nextprevbtn{
+    background: linear-gradient(to right, #103ce7, #64e9ff); 
+    border-radius: 10px;
+    margin-right: 5px;
+
+}

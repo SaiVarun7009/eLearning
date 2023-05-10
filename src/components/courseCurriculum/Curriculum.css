@@ -1,0 +1,69 @@
+
+
+
+.accordion{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+}
+
+.accordion{
+    font-size: 50px;
+}
+
+.acitem{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 5px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 0 10px gainsboro;
+}
+
+
+.acbody li{
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+}
+
+
+/* .curriculum {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .curriculum h3 {
+    font-size: 24px;
+  }
+  
+  .curriculum p {
+    font-size: 16px;
+  }
+  
+  .curriculum .accordion {
+    margin-top: 20px;
+  }
+  
+  .curriculum .acitem {
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .curriculum .acHead {
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .curriculum .acHead h6 {
+    margin: 0;
+  }
+  
+  .curriculum .acbody {
+    padding: 10px;
+  }
+   */

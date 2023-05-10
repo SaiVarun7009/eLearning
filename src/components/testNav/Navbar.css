@@ -1,0 +1,18 @@
+nav{
+    background-color: azure;
+}
+
+nav a{
+    color: black;
+    margin-right: 2rem;
+}
+
+.Nava #home{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+nav a.active{
+    color: brown;
+}
